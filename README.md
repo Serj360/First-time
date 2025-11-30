@@ -3,7 +3,7 @@
 - [What is this place?](#what-is-this-place)
 - [What’s the reason for making this?](#whats-the-reason-for-making-this)
 - [What is Notion?](#what-is-notion)
-- [Let’s Get Started](#lets-get-started)
+- [Let’s Get Started](#-lets-get-started)
 
 # 🌱 FAQ / Common Questions
 
