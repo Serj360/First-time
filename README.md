@@ -13,13 +13,13 @@ I also maintain a Notion-based portfolio that's more visual and it also includes
 ➡️ [My Notion Portfolio](https://www.notion.so/sergiomontoya360/29843cea684480e3b26ef4c36cc4d7ac?v=29843cea6844803481d4000ced637e12&source=copy_link)
 
 
-### 1️⃣ **What is this place?**
+### What is this place?
 
 - This GitHub + Notion setup is my personal knowledge base—essentially my own Wiki.
 - I use Notion to document IT experience, projects, and workflows so everything lives in one organized hub.
 - GitHub hosts my public-facing code, notes, and project files, while Notion provides the structured “portfolio” view.
 
-### 2️⃣ **What’s the reason for making this?**
+### What’s the reason for making this?
 
 > *“Getting experience without documenting your work is like going to the Gym and not tracking your progress”*
 > 
@@ -31,7 +31,7 @@ I also maintain a Notion-based portfolio that's more visual and it also includes
     - *“Employers value them as tangible evidence, giving candidates a competitive edge and strong portfolio for jobs and interviews”* ([dice.com](https://www.dice.com/career-advice/using-personal-projects-to-land-your-first-job-in-tech?utm_source=chatgpt.com),[profiletree.com](https://profiletree.com/personal-projects/?utm_source=chatgpt.com)).
     - *“Home labs also let you safely experiment with systems and prepare for certifications“* ([stormagic.com](https://stormagic.com/company/blog/what-is-homelab/?utm_source=chatgpt.com)).
 
-### 3️⃣ **What is Notion?**
+### What is Notion?
 
 - Notion is a workspace where you can build pages, wikis, databases, and project documentation.
 - Official “Start Here” guide: https://www.notion.com/help/start-here
